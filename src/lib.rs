@@ -14,8 +14,8 @@ impl Binomial {
     #[new]
     fn new(trials: u128, prob: f64) -> Self {
         Self {
-            trials: trials,
-            prob: prob,
+            trials,
+            prob,
         }
     }
 
