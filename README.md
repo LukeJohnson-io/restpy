@@ -1,5 +1,5 @@
 
-# ApplePy
+# ReStPy
 
 Research Statistics and Numerics in Python
 
